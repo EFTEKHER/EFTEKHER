@@ -44,7 +44,7 @@
 
 - 🌱 I’m currently learning **MERN stack, Machine Learning, Data Science, NLP, Deep Learning**
 
-- 👨‍💻 All of my projects are available at [https://eftekheralieftecom.vercel.app/](https://eftekheralieftecom.vercel.app/)
+- 👨‍💻 All of  my projects are available at [https://eftekheralieftecom.vercel.app/](https://eftekheralieftecom.vercel.app/)
 
 - 💬 Ask me about **React, MERN, Machine Learning**
 
