@@ -21,9 +21,8 @@
 
 ### Competitive Programming:
 - Active participant in coding competitions, constantly honing problem-solving skills and algorithmic thinking.
--   img src="https://miro.medium.com/v2/resize:fit:1200/1*iPZ00kImJY8oVioV5Dy75A.jpeg" width="600" height="50" alt="codeforce" />
-    Profile Link: <a href="https://codeforces.com/profile/_gohan06">
-  </a>
+-   <img src="https://miro.medium.com/v2/resize:fit:1200/1*iPZ00kImJY8oVioV5Dy75A.jpeg" width="600" height="50" alt="codeforce" />
+    Profile Link: <a href="https://codeforces.com/profile/_gohan06">codeforce</a>
 
 ### Projects and Contributions:
 - Passionate about contributing to open-source projects and building innovative solutions that make an impact.
