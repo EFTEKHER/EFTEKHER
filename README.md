@@ -150,9 +150,9 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eftekher&show_icons=true&locale=en&layout=compact" alt="eftekher" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EFTEKHER&show_icons=true&locale=en&layout=compact" alt="eftekher" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eftekher&show_icons=true&locale=en" alt="eftekher" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EFTEKHER&show_icons=true&locale=en" alt="eftekher" /></p>
 
 
